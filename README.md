@@ -50,6 +50,7 @@ A premium, high-speed, asset-less portfolio built to demonstrate a technical eng
 * **No Image Assets**: Visual cooling diagnostic curves, active compressor indicators, and terminal overlays are drawn natively using **CSS gradients, keyframes, and SVG elements**.
 * **Light/Dark Toggle**: Fully integrated theme toggle in the top-right corner, saving user preference in `localStorage`.
 * **Daikin Sales Terminal**: A customized command-line terminal simulator permitting B2B clients to run query commands (e.g., `cases`, `stats`, `about`, `contact`).
+* **GitHub Pages Ready**: Structured cleanly inside the `/docs` directory for instant automated branch hosting.
 
 ---
 
@@ -63,7 +64,7 @@ A premium, high-speed, asset-less portfolio built to demonstrate a technical eng
    ```bash
    cd "K_2nd_Portfolio"
    ```
-3. Open `index.html` in any web browser of your choice.
+3. Open `docs/index.html` in any web browser of your choice.
 
 ---
 
